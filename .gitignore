@@ -7,6 +7,9 @@
 
 # Test binaries
 *.test
+helloworld
+server
+intro
 
 # Output of the go build command
 *.out
